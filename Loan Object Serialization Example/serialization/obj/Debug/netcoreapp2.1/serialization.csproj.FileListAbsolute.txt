@@ -1,0 +1,11 @@
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\obj\Debug\netcoreapp2.1\serialization.csprojAssemblyReference.cache
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\obj\Debug\netcoreapp2.1\serialization.csproj.CoreCompileInputs.cache
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\obj\Debug\netcoreapp2.1\serialization.AssemblyInfoInputs.cache
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\obj\Debug\netcoreapp2.1\serialization.AssemblyInfo.cs
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\bin\Debug\netcoreapp2.1\serialization.deps.json
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\bin\Debug\netcoreapp2.1\serialization.runtimeconfig.json
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\bin\Debug\netcoreapp2.1\serialization.runtimeconfig.dev.json
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\bin\Debug\netcoreapp2.1\serialization.dll
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\bin\Debug\netcoreapp2.1\serialization.pdb
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\obj\Debug\netcoreapp2.1\serialization.dll
+C:\Users\dmphogo\Documents\Loan Object Project\serialization\obj\Debug\netcoreapp2.1\serialization.pdb

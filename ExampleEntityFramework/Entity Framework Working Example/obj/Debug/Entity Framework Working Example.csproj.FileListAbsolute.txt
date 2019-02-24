@@ -1,0 +1,12 @@
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\bin\Debug\Entity Framework Working Example.exe.config
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\bin\Debug\Entity Framework Working Example.exe
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\bin\Debug\Entity Framework Working Example.pdb
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\bin\Debug\EntityFramework.dll
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\bin\Debug\EntityFramework.xml
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\obj\Debug\Entity Framework Working Example.csprojAssemblyReference.cache
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\obj\Debug\Entity Framework Working Example.csproj.CoreCompileInputs.cache
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\obj\Debug\Entity Framework Working Example.csproj.CopyComplete
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\obj\Debug\Entity Framework Working Example.exe
+C:\Users\dmphogo\documents\visual studio 2017\Projects\ExampleEntityFramework\Entity Framework Working Example\obj\Debug\Entity Framework Working Example.pdb

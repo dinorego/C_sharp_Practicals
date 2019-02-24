@@ -1,0 +1,12 @@
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\bin\Debug\CodeFirstExample.exe.config
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\bin\Debug\CodeFirstExample.exe
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\bin\Debug\CodeFirstExample.pdb
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\bin\Debug\EntityFramework.dll
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\bin\Debug\EntityFramework.xml
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.csprojAssemblyReference.cache
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.csproj.CoreCompileInputs.cache
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.csproj.CopyComplete
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.exe
+c:\users\dmphogo\documents\visual studio 2017\Projects\CodeFirstExample\CodeFirstExample\obj\Debug\CodeFirstExample.pdb
